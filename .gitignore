@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# specific to my application
+gpa_app/.DS_Store
